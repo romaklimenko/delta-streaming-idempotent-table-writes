@@ -10,7 +10,7 @@ already committed, but the streaming checkpoint is not. A restart replays
 the batch and duplicates the rows that did land.
 
 This repo accompanies the blog post
-[Idempotent Delta table writes in foreachBatch](https://klimenko.com/blog/2026/delta-idempotent-writes).
+[Idempotent Delta table writes in foreachBatch](https://klimenko.dk/blog/2026/delta-idempotent-writes).
 
 ## Requirements
 
